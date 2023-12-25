@@ -52,3 +52,11 @@ button:hover {
   height: 100%;
   object-fit: cover;
 }
+
+.scroll {
+  cursor: pointer;
+}
+
+.scroll:hover {
+  background: none;
+}
