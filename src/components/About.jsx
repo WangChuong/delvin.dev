@@ -15,7 +15,7 @@ const About = () => {
   return (
     <>
         <div className="square-grid">
-      {/* Hàng 1 */}
+      {/* Hàng 1 */   }
       <div className="square-box">
         <div className="title">FACEBOOK</div>
         <div className="content">
